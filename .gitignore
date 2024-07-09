@@ -1,0 +1,5 @@
+*.boc
+*.pk
+*.addr
+multisig-code.fif
+pubkeys
